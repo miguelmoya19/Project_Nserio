@@ -1,0 +1,146 @@
+[
+  {
+    "ContainingType": "Software.NSerio.Controllers.DashboardController",
+    "Method": "GetDeveloperWorkLoad",
+    "RelativePath": "api/Dashboard/dashboard/developer-workload",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.DashboardController",
+    "Method": "GetProjectOVerView",
+    "RelativePath": "api/Dashboard/dashboard/project-health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.DevController",
+    "Method": "GetAllInformationDevActive",
+    "RelativePath": "api/Dev/developers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.TaskController",
+    "Method": "UpdateInformationTask",
+    "RelativePath": "api/Task/{id}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Software.Domain.Dtos.FieldsTaskModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.TaskController",
+    "Method": "GetAllTask",
+    "RelativePath": "api/Task/allTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.TaskController",
+    "Method": "GetTasksById",
+    "RelativePath": "api/Task/GetTasksById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.TaskController",
+    "Method": "multiResult",
+    "RelativePath": "api/Task/multiResult",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.TaskController",
+    "Method": "InsertInformationTask",
+    "RelativePath": "api/Task/tasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Software.Infraestructure.Persistence.TaskModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.ProjectController",
+    "Method": "ProjectListAll",
+    "RelativePath": "api/v1/Project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Software.NSerio.Controllers.ProjectController",
+    "Method": "ProjectListAllFilter",
+    "RelativePath": "api/v1/Project/{id}/tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "assigneeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

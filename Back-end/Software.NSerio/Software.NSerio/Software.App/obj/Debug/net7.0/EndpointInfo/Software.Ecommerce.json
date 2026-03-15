@@ -1,0 +1,40 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Software.Ecommerce",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/User/authentication": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "identification",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "password",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

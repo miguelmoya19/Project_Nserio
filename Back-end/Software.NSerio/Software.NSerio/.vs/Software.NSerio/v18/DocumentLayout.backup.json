@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\dtos\\projectoverviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\dtos\\projectoverviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\services\\dashboarddeveloperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\services\\dashboarddeveloperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\repository\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\projectoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\projectoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\statusforprojectreposimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\statusforprojectreposimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206924F2-FF49-40E7-B5BC-3C9E48EB5CA0}|Software.App\\Software.NSerio.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.app\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206924F2-FF49-40E7-B5BC-3C9E48EB5CA0}|Software.App\\Software.NSerio.csproj|solutionrelative:software.app\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\chargedeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\chargedeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\dtos\\chargedeveloperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\dtos\\chargedeveloperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\dtos\\alltasksviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\dtos\\alltasksviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\view\\alltasksview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\view\\alltasksview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\view\\chargedeveloperview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\view\\chargedeveloperview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\alltasksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\alltasksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\codegenericmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\codegenericmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\configuration\\viewconfiguration\\alltasksviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\configuration\\viewconfiguration\\alltasksviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\configuration\\viewconfiguration\\dashchargeviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\configuration\\viewconfiguration\\dashchargeviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.infraestructure\\persistence\\configuration\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A859AE-49C2-4F43-91D9-0DD287D482A8}|Software.Infraestructure\\Software.Infraestructure.csproj|solutionrelative:software.infraestructure\\persistence\\configuration\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\interfaces\\repository\\irepositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\interfaces\\repository\\irepositorytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.application\\interfaces\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FE18F1-0948-4FB3-9CE9-8E2ADCEB96F9}|Software.Application\\Software.Application.csproj|solutionrelative:software.application\\interfaces\\itask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206924F2-FF49-40E7-B5BC-3C9E48EB5CA0}|Software.App\\Software.NSerio.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.app\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206924F2-FF49-40E7-B5BC-3C9E48EB5CA0}|Software.App\\Software.NSerio.csproj|solutionrelative:software.app\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\fieldstaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\fieldstaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\entities\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\entities\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.domain\\rules\\taskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF1A856-6C7C-444D-9E7D-1709694C3F21}|Software.Domain\\Software.Domain.csproj|solutionrelative:software.domain\\rules\\taskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206924F2-FF49-40E7-B5BC-3C9E48EB5CA0}|Software.App\\Software.NSerio.csproj|c:\\users\\miguel forwarty\\downloads\\software.nserio\\software.nserio\\software.app\\applicationservices\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206924F2-FF49-40E7-B5BC-3C9E48EB5CA0}|Software.App\\Software.NSerio.csproj|solutionrelative:software.app\\applicationservices\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Repository\\TaskRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:47:37.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepositoryTask.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Interfaces\\Repository\\IRepositoryTask.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Interfaces\\Repository\\IRepositoryTask.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Interfaces\\Repository\\IRepositoryTask.cs",
+              "RelativeToolTip": "Software.Domain\\Interfaces\\Repository\\IRepositoryTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:46:18.199Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.App\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Software.App\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.App\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Software.App\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAASwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:05:25.342Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA1wBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:50:25.008Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Services\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Services\\TaskServices.cs",
+              "RelativeToolTip": "Software.Application\\Services\\TaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:37:03.947Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITask.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Interfaces\\ITask.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Interfaces\\ITask.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Interfaces\\ITask.cs",
+              "RelativeToolTip": "Software.Application\\Interfaces\\ITask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:38:08.385Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Repository\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Repository\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Repository\\ProjectRepository.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Repository\\ProjectRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwFQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:52:58.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Software.Application\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:52:34.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Repository\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Repository\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Repository\\DashboardRepository.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Repository\\DashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:20:18.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardDeveloperService.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Services\\DashboardDeveloperService.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Services\\DashboardDeveloperService.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Services\\DashboardDeveloperService.cs",
+              "RelativeToolTip": "Software.Application\\Services\\DashboardDeveloperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:29:04.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectOverviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Dtos\\ProjectOverviewDto.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Dtos\\ProjectOverviewDto.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Dtos\\ProjectOverviewDto.cs",
+              "RelativeToolTip": "Software.Application\\Dtos\\ProjectOverviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:22:34.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectOverview.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\ProjectOverview.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\ProjectOverview.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\ProjectOverview.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\ProjectOverview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:29:37.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusForProjectReposiModel.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\StatusForProjectReposiModel.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\StatusForProjectReposiModel.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\StatusForProjectReposiModel.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\StatusForProjectReposiModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:20:47.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.App\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Software.App\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.App\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Software.App\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:22:15.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChargeDeveloper.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\ChargeDeveloper.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\ChargeDeveloper.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\ChargeDeveloper.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\ChargeDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:03:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\Developer.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\Developer.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\Developer.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:03:07.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChargeDeveloperDto.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Dtos\\ChargeDeveloperDto.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Dtos\\ChargeDeveloperDto.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Dtos\\ChargeDeveloperDto.cs",
+              "RelativeToolTip": "Software.Application\\Dtos\\ChargeDeveloperDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:02:42.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AllTasksView.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\View\\AllTasksView.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\View\\AllTasksView.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\View\\AllTasksView.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\View\\AllTasksView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:42:18.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AllTasksViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\AllTasksViewModel.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\AllTasksViewModel.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\AllTasksViewModel.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\AllTasksViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:41:36.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllTasksViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Dtos\\AllTasksViewDto.cs",
+              "RelativeDocumentMoniker": "Software.Application\\Dtos\\AllTasksViewDto.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Application\\Dtos\\AllTasksViewDto.cs",
+              "RelativeToolTip": "Software.Application\\Dtos\\AllTasksViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:41:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChargeDeveloperView.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\View\\ChargeDeveloperView.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\View\\ChargeDeveloperView.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\View\\ChargeDeveloperView.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\View\\ChargeDeveloperView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:03:21.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CodeGenericModel.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\CodeGenericModel.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\CodeGenericModel.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\CodeGenericModel.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\CodeGenericModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:03:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AllTasksViewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\AllTasksViewConfiguration.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\AllTasksViewConfiguration.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\AllTasksViewConfiguration.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\AllTasksViewConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:33:31.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashChargeViewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\DashChargeViewConfiguration.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\DashChargeViewConfiguration.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\DashChargeViewConfiguration.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\Configuration\\ViewConfiguration\\DashChargeViewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:01:29.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\Configuration\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "Software.Infraestructure\\Persistence\\Configuration\\TaskConfiguration.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Infraestructure\\Persistence\\Configuration\\TaskConfiguration.cs",
+              "RelativeToolTip": "Software.Infraestructure\\Persistence\\Configuration\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:00:44.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FieldsTaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\FieldsTaskModel.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\FieldsTaskModel.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\FieldsTaskModel.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\FieldsTaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:05:18.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Entities\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Entities\\TaskModel.cs",
+              "RelativeToolTip": "Software.Domain\\Entities\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:28:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Rules\\TaskValidator.cs",
+              "RelativeDocumentMoniker": "Software.Domain\\Rules\\TaskValidator.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Domain\\Rules\\TaskValidator.cs",
+              "RelativeToolTip": "Software.Domain\\Rules\\TaskValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:46:52.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.App\\ApplicationServices\\ServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Software.App\\ApplicationServices\\ServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.App\\ApplicationServices\\ServicesRegistration.cs",
+              "RelativeToolTip": "Software.App\\ApplicationServices\\ServicesRegistration.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:33:41.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

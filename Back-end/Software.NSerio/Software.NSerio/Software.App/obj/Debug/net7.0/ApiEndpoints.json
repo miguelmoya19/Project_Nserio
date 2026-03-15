@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Software.NSerio.Controllers.ProjectController",
+    "Method": "ProjectListAll",
+    "RelativePath": "api/v1/Project",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

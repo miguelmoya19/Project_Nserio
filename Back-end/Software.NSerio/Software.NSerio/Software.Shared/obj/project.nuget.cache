@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0kflRMEq+8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MIGUEL FORWARTY\\Downloads\\Software.NSerio\\Software.NSerio\\Software.Shared\\Software.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MIGUEL FORWARTY\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.9\\microsoft.aspnetcore.http.abstractions.2.3.9.nupkg.sha512",
+    "C:\\Users\\MIGUEL FORWARTY\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\MIGUEL FORWARTY\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\MIGUEL FORWARTY\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

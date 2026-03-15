@@ -1,0 +1,15 @@
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\bin\Debug\net7.0\Software.Application.deps.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\bin\Debug\net7.0\Software.Application.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\bin\Debug\net7.0\Software.Application.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\bin\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\bin\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.csproj.AssemblyReference.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.AssemblyInfoInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.AssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.csproj.CoreCompileInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.0C5705C9.Up2Date
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\refint\Software.Application.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\Software.Application.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Application\obj\Debug\net7.0\ref\Software.Application.dll

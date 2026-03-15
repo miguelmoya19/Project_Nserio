@@ -1,0 +1,11 @@
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\bin\Debug\net7.0\Software.Shared.deps.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\bin\Debug\net7.0\Software.Shared.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\bin\Debug\net7.0\Software.Shared.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\Software.Shared.GeneratedMSBuildEditorConfig.editorconfig
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\Software.Shared.AssemblyInfoInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\Software.Shared.AssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\Software.Shared.csproj.CoreCompileInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\Software.Shared.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\refint\Software.Shared.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\Software.Shared.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Shared\obj\Debug\net7.0\ref\Software.Shared.dll

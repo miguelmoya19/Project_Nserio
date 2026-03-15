@@ -1,0 +1,107 @@
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.csproj.AssemblyReference.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rpswa.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.AssemblyInfoInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.AssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.csproj.CoreCompileInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\appsettings.Development.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\appsettings.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.staticwebassets.endpoints.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.exe
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.deps.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.runtimeconfig.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.OpenApi.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\MySqlConnector.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Infraestructure.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Infraestructure.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rjimswa.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\scopedcss\bundle\Software.Ecommerce.styles.css
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.build.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.build.json.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.development.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.CF1CE1BA.Up2Date
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\refint\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.genruntimeconfig.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\ref\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\appsettings.Development.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\appsettings.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.staticwebassets.endpoints.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.exe
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.deps.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.runtimeconfig.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Ecommerce.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.OpenApi.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\MySqlConnector.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Infraestructure.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Infraestructure.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.csproj.AssemblyReference.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rpswa.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.AssemblyInfoInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.AssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.csproj.CoreCompileInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rjimswa.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\scopedcss\bundle\Software.Ecommerce.styles.css
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.build.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.build.json.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.development.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.CF1CE1BA.Up2Date
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\refint\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\Software.Ecommerce.genruntimeconfig.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\ref\Software.Ecommerce.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Application.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Application.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\BCrypt.Net-Next.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Shared.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\bin\Debug\net7.0\Software.Shared.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Ecommerce\obj\Debug\net7.0\swae.build.ex.cache

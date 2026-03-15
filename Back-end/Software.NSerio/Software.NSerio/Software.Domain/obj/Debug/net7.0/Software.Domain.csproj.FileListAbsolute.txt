@@ -1,0 +1,22 @@
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\bin\Debug\net7.0\Software.Domain.deps.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\bin\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\bin\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.AssemblyInfoInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.AssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.csproj.CoreCompileInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\refint\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\ref\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\bin\Debug\net7.0\Software.Domain.deps.json
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\bin\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\bin\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.AssemblyInfoInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.AssemblyInfo.cs
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.csproj.CoreCompileInputs.cache
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\refint\Software.Domain.dll
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\Software.Domain.pdb
+S:\SEBASFORWARTY\Desktop\Software-Ecommerce v1.0\Software.Ecommerce\Software.Domain\obj\Debug\net7.0\ref\Software.Domain.dll
